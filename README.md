@@ -1,7 +1,6 @@
 # Catalogue de mes Gists
 
-##### Git
-[Commandes Git](https://gist.github.com/cocolombo/09abb300330fe71ad50c7aca8ed95931)  
+##### Git [Commandes Git](https://gist.github.com/cocolombo/09abb300330fe71ad50c7aca8ed95931)  
 ##### gh
 [Commandes gh](https://gist.github.com/cocolombo/32f21414f18f827017d3e11b5820a99f)  
 ##### Linux
